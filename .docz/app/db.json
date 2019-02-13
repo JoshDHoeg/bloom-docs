@@ -1,0 +1,31 @@
+{
+  "config": {
+    "title": "Mycoolproject",
+    "description": "My awesome app using docz",
+    "menu": [],
+    "ordering": "descending",
+    "repository": null,
+    "native": false,
+    "codeSandbox": true,
+    "themeConfig": {}
+  },
+  "entries": {
+    "home.mdx": {
+      "name": "Hello world",
+      "id": "e9760a3ba4a9c7b296119b45537b0977",
+      "filepath": "home.mdx",
+      "link": null,
+      "slug": "home",
+      "route": "/home",
+      "order": 0,
+      "menu": null,
+      "headings": [
+        {
+          "depth": 1,
+          "slug": "hello-world",
+          "value": "Hello world"
+        }
+      ]
+    }
+  }
+}
