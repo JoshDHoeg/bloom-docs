@@ -1,1 +1,1 @@
-<?php header( 'Location: /.docz/dist/index.html' ) ;  ?>
+<?php header( 'Location: .docz/dist/index.html' ) ;  ?>
