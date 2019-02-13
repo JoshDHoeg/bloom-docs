@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{"./.docz/app/imports.js":function(n,t,a){"use strict";a.r(t),a.d(t,"imports",function(){return o});var o={"database.mdx":function(){return a.e(1).then(a.bind(null,"./database.mdx"))}}}},0,[1]]);
+//# sourceMappingURL=4.d8b8ed6e8f25fe48e775.js.map

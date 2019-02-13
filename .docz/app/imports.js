@@ -1,4 +1,4 @@
 export const imports = {
-  'home.mdx': () =>
-    import(/* webpackPrefetch: true, webpackChunkName: "home" */ 'home.mdx'),
+  'database.mdx': () =>
+    import(/* webpackPrefetch: true, webpackChunkName: "database" */ 'database.mdx'),
 }
